@@ -6,13 +6,13 @@ Authors: Bernardin Ligan, Khalide Jbilou, Fahd Kalloubi, Ahmed Ratnani
 
 Arxiv : https://arxiv.org/abs/2505.15334
 
-Paper Website: 
+Paper Website: https://liganiuminc.github.io/PEFT_HSIC/
 
-### An overview of the overall pipeline used to fine-tune the SpectralGPT model for hyperspectral image classification.
+#### An overview of the overall pipeline used to fine-tune the SpectralGPT model for hyperspectral image classification.
 ![alt text](docs/static/images/Fig1.jpg)
 
-### The Parameter-Efficient Fine-Tuning (PEFT) strategies used in the study
+#### The Parameter-Efficient Fine-Tuning (PEFT) strategies used in the study
 ![alt text](docs/static/images/Fig2.jpg)
 
 
-# Dependencies
+#### Dependencies
